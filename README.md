@@ -20,7 +20,7 @@ I’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technol
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, SQL
+- **Languages:** Python, C, C++, JS, SQL
 - **Core Skills:** Machine Learning, Data Science, Natural Language Processing, Neural Networks
 - **Tools & Libraries:** pandas, NumPy, scikit-learn, TensorFlow, Keras
 
