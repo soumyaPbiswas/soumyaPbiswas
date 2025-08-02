@@ -1,53 +1,21 @@
-# 👋 Hi, I’m Soumya Prakash Biswas
+# 💫 About Me:
+’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technology. With a strong foundation in machine learning, data science, and theoretical computer science, I’m passionate about building intelligent systems that solve real-world problems through automation, efficiency, and data-driven decision-making.<br><br>🧠 Curious & Detail-Oriented: I love turning abstract concepts into impactful solutions.<br>💡 Driven by Curiosity: Always eager to learn, explore, and push boundaries.<br>🤖 Problem Solver: I thrive on challenges that make me think deeper and build smarter.<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/soumya-prakash-biswas-630bab240/)
-[![Profile Views](https://komarev.com/ghpvc/?username=soumyaPbiswas&style=flat-square)](https://github.com/soumyaPbiswas)
 
-🎓 **Final-Year IT Undergraduate at UITBU**  
-🔍 **Aspiring Data Scientist | ML Enthusiast | Theoretical CS Explorer**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumooo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-prakash-biswas-630bab240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blips.nor.27@icloud.com) 
 
----
-
-## 👨‍💻 About Me
-
-I’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technology. With a strong foundation in machine learning, data science, and theoretical computer science, I’m passionate about building intelligent systems that solve real-world problems through automation, efficiency, and data-driven decision-making.
-
-- 🧠 **Curious & Detail-Oriented:** I love turning abstract concepts into impactful solutions.
-- 💡 **Driven by Curiosity:** Always eager to learn, explore, and push boundaries.
-- 🤖 **Problem Solver:** I thrive on challenges that make me think deeper and build smarter.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=soumyaPbiswas&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soumyaPbiswas&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaPbiswas&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=soumyaPbiswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
-
-- **Languages:** Python, C, C++, JS, SQL
-- **Core Skills:** Machine Learning, Data Science, Natural Language Processing, Neural Networks
-- **Tools & Libraries:** pandas, NumPy, scikit-learn, TensorFlow, Keras
-
----
-
-## 🚀 Featured Projects
-
-- **Retinal Disease (Glaucoma Detection):**  
-  Leveraged deep learning models to automate the detection of glaucoma from retinal images, aiming to assist healthcare professionals in early diagnosis.
-
-- **Crop Yield Prediction:**  
-  Designed a machine learning system that predicts crop yields based on historical data and environmental factors, helping farmers make data-driven decisions.
-
----
-
-## 🌱 What I’m Interested In
-
-- Building intelligent, scalable systems for social good
-- Automation, efficiency, and data-driven solutions
-- Exploring new ML algorithms and applications
-- Collaborating on open-source and research-driven projects
-
----
-
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/soumya-prakash-biswas-630bab240/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
