@@ -54,5 +54,5 @@ I’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technol
 *“Data is the new oil, but insight is the spark that makes it valuable.”*
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/soumyaPbiswas/soumyaPbiswas/blob/output/github-snake-dark.svg)
 
