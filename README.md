@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technology. With a strong foundation in machine learning, data science, and theoretical computer science, I’m passionate about building intelligent systems that solve real-world problems through automation, efficiency, and data-driven decision-making.<br><br>🧠 Curious & Detail-Oriented: I love turning abstract concepts into impactful solutions.<br>💡 Driven by Curiosity: Always eager to learn, explore, and push boundaries.<br>🤖 Problem Solver: I thrive on challenges that make me think deeper and build smarter.<br>
+I’m a final-year undergraduate at UITBU pursuing a B.E. in Information Technology. With a strong foundation in machine learning, data science, and theoretical computer science, I’m passionate about building intelligent systems that solve real-world problems through automation, efficiency, and data-driven decision-making.<br><br>🧠 Curious & Detail-Oriented: I love turning abstract concepts into impactful solutions.<br>💡 Driven by Curiosity: Always eager to learn, explore, and push boundaries.<br>🤖 Problem Solver: I thrive on challenges that make me think deeper and build smarter.<br>
 
 
 ## 🌐 Socials:
