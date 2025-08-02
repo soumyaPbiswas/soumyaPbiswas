@@ -8,11 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a **Final Year B.E. Information Technology** student at UITBU with a passion for **Machine Learning** and **Data Science**. Currently exploring the fascinating world of AI to solve real-world problems and create intelligent systems that make a difference.
+I'm a B.E. graduate from The University of Burdwan with a passion for Machine Learning and Data Science. Currently working as a Software Developer Intern at a startup, where I'm diving deep into exciting challenges and building solutions that bridge the gap between innovative technology and real-world applications.
 
-- 🎓 **SGPA:** 8.40/10
-- 🔬 **ML Intern** at Ardent Computech Pvt (Achieved 90%+ model accuracy)
-- 🎯 **Focus Areas:** Predictive Modeling, Computer Vision, Agricultural Technology
+- 🎯 **Focus Areas:** Predictive Modeling, Computer Vision, Neural Networks
 - 🌱 **Currently Learning:** Advanced Deep Learning, MLOps, and Cloud Computing
 - 💡 **Goal:** Contributing to AI innovations that solve practical problems
 
