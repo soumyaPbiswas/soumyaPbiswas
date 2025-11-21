@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Soumya Prakash Biswas.
+# Hi there! 👋 I'm Soumya.
 
 <div align="center">
   
