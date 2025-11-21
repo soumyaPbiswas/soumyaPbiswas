@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a B.E. graduate from The University of Burdwan with a passion for Machine Learning and Data Science. Currently working as a Software Developer Intern at a startup, where I'm diving deep into exciting challenges and building solutions that bridge the gap between innovative technology and real-world applications.
+Engineering graduate (Information Technology) from The University of Burdwan with a passion for Machine Learning and Data Science. Currently working as a Software Developer Trainee at a startup, where I'm diving deep into exciting challenges and building solutions that bridge the gap between innovative technology and real-world applications.
 
 - 🎯 **Focus Areas:** Predictive Modeling, Computer Vision, Neural Networks
 - 🌱 **Currently Learning:** Advanced Deep Learning, MLOps, and Cloud Computing
@@ -53,6 +53,14 @@ I'm a B.E. graduate from The University of Burdwan with a passion for Machine Le
 - **Impact:** Assists ophthalmologists with faster and more accurate diagnoses
 - **Tech Stack:** Python • GANs • Data Augmentation • Random Forest • Kaggle
 - **Achievement:** Enhanced diagnostic accuracy through advanced image processing
+
+### Resume Analysis using Vector Search(Lucene)
+
+- **Objective:** Implemented a Lucene-based vector search pipeline to enhance semantic matching between resumes and job descriptions. Leveraged dense vector embeddings to capture contextual meaning beyond keyword overlap, enabling more accurate candidate–role alignment.
+- **Impact:** Assists recruiters with faster and more accurate retreival of resumes
+- **Tech Stack:** Python • Kotlin • Lucene  • Vector Databases
+- **Achievement:** Enhanced search accuracy beyond conventional keyword matching
+
 
 ### 🌾 Crop Yield Prediction
 > **Smart agriculture solution for optimized farming**
