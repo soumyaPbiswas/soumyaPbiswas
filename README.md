@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Soumya.
+# Hi there! This is Soumya.
 
 <div align="center">
   
