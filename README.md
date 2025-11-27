@@ -62,13 +62,13 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
 - **Achievement:** Enhanced search accuracy beyond conventional keyword matching
 
 
-### 🌾 Crop Yield Prediction
-> **Smart agriculture solution for optimized farming**
+### ASL- Detector
+> **Real-time sign language letter recognition using computer vision**
 
-- **Objective:** Predict crop yields based on environmental and soil parameters
-- **Impact:** Helps farmers optimize resource usage and increase productivity
-- **Tech Stack:** Python • Scikit-Learn • Pandas • Flask • HTML/CSS
-- **Achievement:** Data-driven insights for agricultural decision making
+- **Objective:** A real-time American Sign Language finger-spelling recognizer that uses MediaPipe Hand Tracking for landmark extraction and a neural network classifier trained on the Kaggle ASL alphabet dataset.
+- **Impact:** Real-time ASL alphabet classification (A–Z, static letters only)
+- **Tech Stack:** Python • MediaPipe • Scikit-Learn • OpenCV • Streamlit
+- **Achievement:** Achieved 95% accuracy on ASL alphabet test set using lightweight neural network trained on normalized hand landmark features.
 
 ---
 
