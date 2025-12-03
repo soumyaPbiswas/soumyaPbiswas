@@ -6,19 +6,19 @@
   
 </div>
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 Engineering graduate (Information Technology) from The University of Burdwan with a passion for Machine Learning and Data Science. Currently working as a Software Developer Trainee at a startup, where I'm diving deep into exciting challenges and building solutions that bridge the gap between innovative technology and real-world applications.
 
-- 🎯 **Focus Areas:** Predictive Modeling, Computer Vision, Neural Networks
-- 🌱 **Currently Learning:** Advanced Deep Learning, MLOps, and Cloud Computing
-- 💡 **Goal:** Contributing to AI innovations that solve practical problems
+-  **Focus Areas:** Predictive Modeling, Computer Vision, Neural Networks
+-  **Currently Learning:** Advanced Deep Learning, MLOps, and Cloud Computing
+-  **Goal:** Contributing to AI innovations that solve practical problems
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ TECH STACK:
 
-### Languages & Core Technologies
+### Languages & Core Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -47,7 +47,7 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
 
 ##  Featured Projects-
 
-### 🩺 Retinal Disease Detection
+### Retinal Disease Detection
 > **AI-powered healthcare solution for early disease detection**
 
 - **Objective:** Automated detection of Diabetic Retinopathy, Glaucoma, and AMD from fundus images
@@ -56,6 +56,7 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
 - **Achievement:** Enhanced diagnostic accuracy through advanced image processing
 
 ### Resume Analysis using Vector Search(Lucene)
+>**Resume screening for faster context based searching**
 
 - **Objective:** Implemented a Lucene-based vector search pipeline to enhance semantic matching between resumes and job descriptions. Leveraged dense vector embeddings to capture contextual meaning beyond keyword overlap, enabling more accurate candidate–role alignment.
 - **Impact:** Assists recruiters with faster and more accurate retreival of resumes
@@ -80,7 +81,7 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -88,7 +89,7 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:blips.nor.27@icloud.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/soumooo_)  
   
-  **📍 Based in Kolkata, West Bengal**
+  **📍 Based in Kolkata.**
   
 </div>
 
@@ -107,7 +108,6 @@ Engineering graduate (Information Technology) from The University of Burdwan wit
 
 ---
 
-*“Data is the new oil, but insight is the spark that makes it valuable.”*
 
 
 ![snake gif](https://github.com/soumyaPbiswas/soumyaPbiswas/blob/output/github-snake-dark.svg)
